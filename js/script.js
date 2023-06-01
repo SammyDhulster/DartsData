@@ -3,7 +3,7 @@
 window.addEventListener('load',initialize);
 
 let allPlayers;
-const source = '';
+const source = 'https://sammydhulster.github.io/DartsData/api/data.json';
 
 let countries, players, selectedCountry;
 let slcCountries, divPlayers, divFlag, sctDetails, sctOrdered;
