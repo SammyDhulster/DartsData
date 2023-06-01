@@ -3,7 +3,7 @@
 window.addEventListener('load',initialize);
 
 let allPlayers;
-const source = 'https://sammydhulster.github.io/DartsData/api/data.json';
+const source = 'https://vigilant-carnival-vr8wl5w.pages.github.io/api/data.json';
 
 let countries, players, selectedCountry;
 let slcCountries, divPlayers, divFlag, sctDetails, sctOrdered;
